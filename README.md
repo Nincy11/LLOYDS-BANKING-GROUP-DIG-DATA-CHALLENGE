@@ -1,1 +1,3 @@
 # LLOYDS-BANKING-GROUP-DIG-DATA-CHALLENGE
+
+<img width="407" alt="Screenshot 2023-12-25 at 6 47 21 pm" src="https://github.com/Nincy11/LLOYDS-BANKING-GROUP-DIG-DATA-CHALLENGE/assets/46756664/169f5f0e-7562-4195-85a5-91ffc6851b7a">
